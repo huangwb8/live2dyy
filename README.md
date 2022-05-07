@@ -56,3 +56,27 @@ setTimeout(function() {
 	margin-bottom:0 !important;
 }
 ```
+
+# Test
+
+> 个人专用，大佬们手下留情，不要点`https://purge*`类的网址。谢谢！
+
++ autoload.js
+  + https://purge.jsdelivr.net/gh/huangwb8/live2dyy@latest/autoload.js
+  + https://cdn.jsdelivr.net/gh/huangwb8/live2dyy@latest/autoload.js
++ waifu-tips.js
+  + https://purge.jsdelivr.net/gh/huangwb8/live2dyy@latest/waifu-tips.js
+  + https://cdn.jsdelivr.net/gh/huangwb8/live2dyy@latest/waifu-tips.js
++ waifu-tips.json
+  + https://purge.jsdelivr.net/gh/huangwb8/live2dyy@latest/waifu-tips.json
+  + https://cdn.jsdelivr.net/gh/huangwb8/live2dyy@latest/waifu-tips.json
++ waifu.css
+  + https://purge.jsdelivr.net/gh/huangwb8/live2dyy@latest/waifu.css
+  + https://cdn.jsdelivr.net/gh/huangwb8/live2dyy@latest/waifu.css
+
++ live2d.min.js
+  + https://purge.jsdelivr.net/gh/huangwb8/live2dyy@latest/live2d.min.js
+  + https://cdn.jsdelivr.net/gh/huangwb8/live2dyy@latest/live2d.min.js
++ model_list.json
+  + https://purge.jsdelivr.net/gh/huangwb8/live2dyy@latest/live2d_api/model_list.json
+  + https://cdn.jsdelivr.net/gh/huangwb8/live2dyy@latest/live2d_api/model_list.json
