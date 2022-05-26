@@ -2,18 +2,29 @@
 
 > 代码基本不是原创，是数位看板娘开发大佬的代码结合而成的产物。
 
+# Introduction
+
 国服最强WordPress看板娘。没有之一！
 
 + 集成度更高、效果更干净
 + 体积更迷你
-+ 内置音乐播放器，歌单来源于网易云音乐
-+ 右击看板娘调出秘密通道，上面是你想放进去的链接
++ 内置音乐播放器，歌单来源于网易云音乐。音乐播放器切换隐藏/显示。
++ 右击看板娘调出秘密通道，上面可以自定义链接
 
-其它博客平台暂未测试。
+![](https://chevereto.hwb0307.com/images/2022/05/26/image-20220526145829649.png)
+
+其它博客平台暂未测试。欢迎测试并提出意见！
 
 # Demo
 
-![](https://chevereto.hwb0307.com/images/2022/05/26/image-20220526145829649.png)
+## [Argon主题](https://solstice23.top/)
+
++ 浮云翩迁之间：[https://blognas.hwb0307.com](https://blognas.hwb0307.com)
++ 别动我小鱼干：[https://www.lixiaoming.net](https://www.lixiaoming.net)
+
+## 其它主题：
+
++ To Be Continued
 
 # Usage
 
