@@ -1,15 +1,56 @@
 {
     "models": [
-    	"prefer/tororo",
-    	"prefer/hijiki",
-    	"prefer/penchan",
-    	"prefer/kesyoban"
+		"prefer/haru01",
+		"prefer/haru02",
+		"prefer/tororo",
+		"prefer/Bronya",
+		"prefer/hijiki",
+        "prefer/Potion-Maker/Pio",
+        "prefer/Potion-Maker/Tia",
+        "prefer/bilibili-live/22",
+        "prefer/bilibili-live/33",
+        [
+            "prefer/ShizukuTalk/shizuku-48",
+            "prefer/ShizukuTalk/shizuku-pajama"
+        ],
+        [
+            "prefer/HyperdimensionNeptunia/neptune_classic",
+            "prefer/HyperdimensionNeptunia/nepnep",
+            "prefer/HyperdimensionNeptunia/neptune_santa",
+            "prefer/HyperdimensionNeptunia/nepmaid",
+            "prefer/HyperdimensionNeptunia/nepswim",
+            "prefer/HyperdimensionNeptunia/noir_classic",
+            "prefer/HyperdimensionNeptunia/noir",
+            "prefer/HyperdimensionNeptunia/noir_santa",
+            "prefer/HyperdimensionNeptunia/noireswim",
+            "prefer/HyperdimensionNeptunia/blanc_classic",
+            "prefer/HyperdimensionNeptunia/blanc_normal",
+            "prefer/HyperdimensionNeptunia/blanc_swimwear",
+            "prefer/HyperdimensionNeptunia/vert_classic",
+            "prefer/HyperdimensionNeptunia/vert_normal",
+            "prefer/HyperdimensionNeptunia/vert_swimwear",
+            "prefer/HyperdimensionNeptunia/nepgear",
+            "prefer/HyperdimensionNeptunia/nepgear_extra",
+            "prefer/HyperdimensionNeptunia/nepgearswim",
+            "prefer/HyperdimensionNeptunia/histoire",
+            "prefer/HyperdimensionNeptunia/histoirenohover"
+        ],
+        "prefer/KantaiCollection/murakumo",
+		"prefer/haruto"
     ],
-    
     "messages": [
-        "喵 ~",
-        "喵喵 ~",
-        "penchan ~",
-        "kesyoban ~"
+		"苯苯可爱的haru01",
+		"苯苯可爱的haru02",
+		"苯苯可爱的tororo",
+		"苯苯可爱的Bronya",
+		"hijiki",
+        "来自 Potion Maker 的 Pio 酱 ~",
+        "来自 Potion Maker 的 Tia 酱 ~",
+        "来自 Bilibili Live 的 22 哦 ~",
+        "来自 Bilibili Live 的 33 的说",
+        "Shizuku Talk ！这里是 Shizuku ~",
+        "Nep! Nep! 超次元游戏：海王星 系列",
+        "艦隊これくしょん / 叢雲(むらくも)",
+		"haruto"
     ]
 }
