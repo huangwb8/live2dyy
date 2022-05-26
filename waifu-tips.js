@@ -1,6 +1,7 @@
 /*
  * Live2D Widget
  * https://github.com/stevenjoezhang/live2d-widget
+ * Test: v1.0.4
  */
 var music_flag=false;
 function aplayer_panel_toggle(){
@@ -90,7 +91,7 @@ function loadWidget(config) {
 			Live2D.captureFrame = true;
 		});
 		/*document.querySelector("#waifu-tool .fa-info-circle").addEventListener("click", () => {
-			open("https://github.com/stevenjoezhang/live2d-widget");
+			open("https://blognas.hwb0307.com/linux/docker/1165");
 		});*/
 		document.querySelector("#waifu-tool .fa-times").addEventListener("click", () => {
 			localStorage.setItem("waifu-display", Date.now());
@@ -202,7 +203,7 @@ function loadWidget(config) {
 				});
 				$("#live2d").mousedown(function(e) {
 				        if(e.which==3){
-				        showMessage("<div style=\"text-align:center\">秘密通道<br/><a href=\"javascript:aplayer_panel_toggle();\">音乐播放器</a><br/><a href=\"https://blognas.hwb0307.com\" target=\"_blank\">主页</a><br/><a href=\"https://chevereto.hwb0307.com/\" target=\"_blank\">图床</a><br/><a href=\"https://umamirn2.hwb0307.com/share/QqhvkqI6/blognas/\" target=\"_blank\">流量</a></div>",4000,10);
+				        showMessage("<div style=\"text-align:center\">秘密通道<br/><a href=\"javascript:aplayer_panel_toggle();\">音乐播放器</a><br/><a href=\"https://github.com/huangwb8/\" target=\"_blank\">Github</a><br/><a href=\"https://chevereto.hwb0307.com/\" target=\"_blank\">图床</a><br/><a href=\"https://umamirn2.hwb0307.com/share/QqhvkqI6/blognas/\" target=\"_blank\">流量</a><br/><a href=\"https://blognas.hwb0307.com/linux/docker/1165\" target=\"_blank\">说明书</a></div>",4000,10);
 						}
 				});
 				$("#live2d").bind("contextmenu", function(e) {
