@@ -34,7 +34,7 @@ function loadWidget(config) {
 				<span class="fa fa-lg fa-comment"></span>
 				<!--span class="fa fa-lg fa-paper-plane"></span-->
 				<span class="fa fa-lg fa-user-circle"></span>
-				<!--span class="fa fa-lg fa-street-view"></span-->
+				<span class="fa fa-lg fa-street-view"></span>
 				<span class="fa fa-lg fa-camera-retro"></span>
 				<!--span class="fa fa-lg fa-info-circle"></span-->
 				<span class="fa fa-lg fa-times"></span>
@@ -83,7 +83,7 @@ function loadWidget(config) {
 			}
 		});*/
 		document.querySelector("#waifu-tool .fa-user-circle").addEventListener("click", loadOtherModel);
-		//document.querySelector("#waifu-tool .fa-street-view").addEventListener("click", loadRandModel);
+		document.querySelector("#waifu-tool .fa-street-view").addEventListener("click", loadRandModel);
 		document.querySelector("#waifu-tool .fa-camera-retro").addEventListener("click", () => {
 			showMessage("照好了嘛，是不是很可爱呢？", 6000, 9);
 			Live2D.captureName = "photo.png";
@@ -285,7 +285,7 @@ function initWidget(config, apiPath = "/") {
 		};
 	}
 	document.body.insertAdjacentHTML("beforeend", `<div id="waifu-toggle">
-			<span>猫 咪</span>
+			<span>看板娘</span>
 		</div>`);
 	let toggle = document.getElementById("waifu-toggle");
 	toggle.addEventListener("click", () => {
