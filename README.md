@@ -6,6 +6,10 @@
 
 国服最强WordPress看板娘。没有之一！
 
+![Code_97fB3v3IxM](https://chevereto.hwb0307.com/images/2022/11/03/Code_97fB3v3IxM.gif)
+
+`live2dyy`具有如下特点：
+
 + 集成度更高、效果更干净
 + 体积更迷你
 + 内置音乐播放器，歌单来源于网易云音乐。音乐播放器切换隐藏/显示。
